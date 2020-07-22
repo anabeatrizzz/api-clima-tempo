@@ -17,7 +17,7 @@ $(function(){
       $("#previsao").append(retornado)
     },
     error: function(xhr, status, error){
-      alert(`${xhr.status}: ${xhr.statusText}`)
+      alert(`${xhr.status}:  ${xhr.statusText}`)
     }
   })
 })
