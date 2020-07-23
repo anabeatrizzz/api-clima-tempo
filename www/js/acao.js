@@ -2,6 +2,7 @@
 $(function(){
   $.ajax({
     type: "get",
+    dataType: "json",
     url: "http://apiadvisor.climatempo.com.br/api/v1/forecast/region/sudeste?token=11e3e1513a46d67a2a05217cf9e7293a",
     success: function(data){
       var retornado = `\
