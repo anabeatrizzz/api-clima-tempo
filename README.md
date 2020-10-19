@@ -8,7 +8,7 @@ Este é o um dos aplicativos que desenvolvo para a disciplina Programação de A
 
 <a href="#índice"><h1 align="center">Tela</h1></a>
 <p align="center">
-  <kbd><img alt="Em breve" width="300" src="#" /></kbd>
+  <kbd><img width="300" src="https://i.ibb.co/zxxD58h/IMG-20201019-134921.jpg" /></kbd>
 </p>
 
 # [Instalação](#índice)
