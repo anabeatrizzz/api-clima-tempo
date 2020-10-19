@@ -8,7 +8,7 @@ $(function(){
       var retornado = `\
       <h4 class="text-center"><b>${data.data[0].date_br}</b></h4>
       <p><img class="img-fluid img-thumbnail" src="${data.data[0].image}"></p>
-      <p>Descrição não fornecida</p>
+      <p>${data.data[0].text}</p>
       <h4 class="text-center"><b>${data.data[1].date_br}</b></h4>
       <p><img class="img-fluid img-thumbnail" src="${data.data[1].image}"></p>
       <p>${data.data[1].text}</p>
